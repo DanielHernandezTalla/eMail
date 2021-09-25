@@ -1,0 +1,6 @@
+mail.smtp.host=smtp.office365.com
+mail.smtp.port=587
+mail.smtp.user=hernandezdany41@outlook.com
+mail.smtp.password=CABALLOPINTO5618068
+mail.smtp.starttls.enable=true
+mail.smtp.auth=true

@@ -1,0 +1,6 @@
+mail.smtp.host=smtp.gmail.com
+mail.smtp.port=587
+mail.smtp.user=hernandezdany41@gmail.com
+mail.smtp.password=L8j7oK?fJxHTMzeN
+mail.smtp.starttls.enable=true
+mail.smtp.auth=true
